@@ -51,13 +51,7 @@
             android:id="@+id/recyclerView"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:orientation="vertical"
-            app:fastScrollPopupBackgroundSize="64dp"
-            app:fastScrollPopupBgColor="@color/colorAccent"
-            app:fastScrollPopupTextColor="@color/colorPrimary"
-            app:fastScrollPopupTextSize="48sp"
-            app:fastScrollThumbColor="@color/colorAccent"
-            app:fastScrollTrackColor="@color/track" />
+            android:orientation="vertical" />
 
     </LinearLayout>
 
