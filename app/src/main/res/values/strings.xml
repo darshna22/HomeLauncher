@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Home Launcher</string>
+    <string name="home">Home</string>
+    <string name="drawer">Drawer</string>
+    <string name="search_app_here">Find your app here...</string>
+</resources>

@@ -1,0 +1,3 @@
+rootProject.name='Home Launcher'
+include ':app'
+

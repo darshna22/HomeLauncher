@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#222222</color>
+    <color name="colorPrimaryDark">#222222</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="gray">#9E9E9E</color>
+    <color name="background">#000000</color>
+    <color name="ripple_color">#ccffffff</color>
+    <color name="track">#777777</color>
+</resources>
